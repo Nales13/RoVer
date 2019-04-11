@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://discordapp.com/oauth2/authorize?client_id=298796807323123712&scope=bot&permissions=402656264"><img src="/assets/Add_RoVer.png" alt="Add" /></a>
+    <a href="https://discordapp.com/api/oauth2/authorize?client_id=554048968695480320&permissions=8&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3Fclient_id%3D554048968695480320%26scope%3Dbot%26permissions%3D805314622https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3Fclient_id%3D554048968695480320%26s&response_type=code&scope=bot%20connections"><img src="/assets/Add_RoVer.png" alt="Add" /></a>
 </p>
 
 [![Patreon](http://i.imgur.com/dujYlAK.png)](https://www.patreon.com/erynlynn) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Verified Users](https://img.shields.io/badge/verified%20users-800K%2B-brightgreen.svg)](https://eryn.io/RoVer) [![Discord Servers](https://img.shields.io/badge/total%20servers-45K%2B-brightgreen.svg)](https://eryn.io/RoVer)
